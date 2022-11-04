@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DevSoc-Development-Task/static/css/main.f3b04acc.css",
-    "main.js": "/DevSoc-Development-Task/static/js/main.87833a93.js",
+    "main.js": "/DevSoc-Development-Task/static/js/main.226b80da.js",
     "static/media/dreamland-menu.png": "/DevSoc-Development-Task/static/media/dreamland-menu.e8ab268adf54b690b180.png",
     "static/media/pfc-menu.png": "/DevSoc-Development-Task/static/media/pfc-menu.37f090645f2aa6935dc6.png",
     "static/media/peeps-kitchen-menu.png": "/DevSoc-Development-Task/static/media/peeps-kitchen-menu.0b0332285a49b23c02d9.png",
@@ -24,10 +24,10 @@
     "static/media/radhakanta-sweets.png": "/DevSoc-Development-Task/static/media/radhakanta-sweets.059b37c06cc1ac868358.png",
     "index.html": "/DevSoc-Development-Task/index.html",
     "main.f3b04acc.css.map": "/DevSoc-Development-Task/static/css/main.f3b04acc.css.map",
-    "main.87833a93.js.map": "/DevSoc-Development-Task/static/js/main.87833a93.js.map"
+    "main.226b80da.js.map": "/DevSoc-Development-Task/static/js/main.226b80da.js.map"
   },
   "entrypoints": [
     "static/css/main.f3b04acc.css",
-    "static/js/main.87833a93.js"
+    "static/js/main.226b80da.js"
   ]
 }
