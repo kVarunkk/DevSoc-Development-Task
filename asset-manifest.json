@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/DevSoc-Development-Task/static/css/main.f3b04acc.css",
+    "main.js": "/DevSoc-Development-Task/static/js/main.87833a93.js",
+    "static/media/dreamland-menu.png": "/DevSoc-Development-Task/static/media/dreamland-menu.e8ab268adf54b690b180.png",
+    "static/media/pfc-menu.png": "/DevSoc-Development-Task/static/media/pfc-menu.37f090645f2aa6935dc6.png",
+    "static/media/peeps-kitchen-menu.png": "/DevSoc-Development-Task/static/media/peeps-kitchen-menu.0b0332285a49b23c02d9.png",
+    "static/media/bimala-sweets-menu.png": "/DevSoc-Development-Task/static/media/bimala-sweets-menu.6b69629c328837d9f5f2.png",
+    "static/media/food-city-menu.png": "/DevSoc-Development-Task/static/media/food-city-menu.0b112564a970a4feb6d6.png",
+    "static/media/mio-amore-menu.png": "/DevSoc-Development-Task/static/media/mio-amore-menu.353066b22783165c56a5.png",
+    "static/media/dreamland.png": "/DevSoc-Development-Task/static/media/dreamland.b32b4ca5292e8d0f7d76.png",
+    "static/media/food-city.png": "/DevSoc-Development-Task/static/media/food-city.e41393bf558c4869c3b9.png",
+    "static/media/ccd.png": "/DevSoc-Development-Task/static/media/ccd.f573d76a3b68fdf9aaea.png",
+    "static/media/baskin-robbins-menu.png": "/DevSoc-Development-Task/static/media/baskin-robbins-menu.6fcb669b5f20c8faf9a0.png",
+    "static/media/heritage-menu.png": "/DevSoc-Development-Task/static/media/heritage-menu.89a0931b86465400a06b.png",
+    "static/media/radhakanta-menu.png": "/DevSoc-Development-Task/static/media/radhakanta-menu.f2e6e6f6285cf2b3b4e1.png",
+    "static/media/heritage.png": "/DevSoc-Development-Task/static/media/heritage.a282e0a66bd555f5abb5.png",
+    "static/media/ccd-menu.jpg": "/DevSoc-Development-Task/static/media/ccd-menu.dd6f83201c5bdc5001ca.jpg",
+    "static/media/peeps-kitchen.png": "/DevSoc-Development-Task/static/media/peeps-kitchen.c2edb02d4935d8b84684.png",
+    "static/media/pfc.png": "/DevSoc-Development-Task/static/media/pfc.01ecd3333f616f9565af.png",
+    "static/media/baskin-robins.png": "/DevSoc-Development-Task/static/media/baskin-robins.e718c532f3ee97d13e67.png",
+    "static/media/bimala-sweets.png": "/DevSoc-Development-Task/static/media/bimala-sweets.dac27d8b51f46ce9cd35.png",
+    "static/media/mio-amore.png": "/DevSoc-Development-Task/static/media/mio-amore.bbb1db1a51c03227585e.png",
+    "static/media/radhakanta-sweets.png": "/DevSoc-Development-Task/static/media/radhakanta-sweets.059b37c06cc1ac868358.png",
+    "index.html": "/DevSoc-Development-Task/index.html",
+    "main.f3b04acc.css.map": "/DevSoc-Development-Task/static/css/main.f3b04acc.css.map",
+    "main.87833a93.js.map": "/DevSoc-Development-Task/static/js/main.87833a93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b04acc.css",
+    "static/js/main.87833a93.js"
+  ]
+}
