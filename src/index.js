@@ -10,7 +10,10 @@ root.render(
   <BrowserRouter>
     <Routes>
       <Route path="/DevSoc-Development-Task" element={<App />} />
-      <Route path="/DevSoc-Development-Task/restaurant/:restaurantName" element={<Restaurant />} />
+      <Route
+        path="/DevSoc-Development-Task/:restaurantName"
+        element={<Restaurant />}
+      />
     </Routes>
   </BrowserRouter>
 );
