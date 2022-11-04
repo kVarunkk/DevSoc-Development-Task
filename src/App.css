@@ -1,38 +1,101 @@
-.App {
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  height: fit-content;
+}
+
+.header, .footer {
   text-align: center;
+  padding: 30px 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.header {
+  background-color: aliceblue;
+  font-size: 2.5rem;
+  font-family: 'Poor Story', cursive;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.homepageBody {
+  margin: 0 auto;
+  max-width: 1200px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  text-align: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 80px 30px;
 }
 
-.App-link {
-  color: #61dafb;
+.card {
+  width: 350px;
+  height: auto;
+  padding: 20px;
+  background-color: rgba(190, 190, 190, 0.326);
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px 5px rgba(205, 205, 205, 0.9);
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.card:hover {
+  background-color: rgba(190, 190, 190, 0.155);
+}
+
+.card .image {
+  width: 80%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.restaurant {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 80px 30px;
+}
+
+.restaurant p {
+  font-size: 1.3rem;
+  font-style: italic;
+}
+
+.resImage {
+  width: 400px;
+  height: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  transition: all 0.4s ease;
+}
+
+.resImage:hover {
+  transform: scale(1.5, 1.5);
+}
+
+.footer {
+  background-color: #f2ecff;
+  font-size: 1.2rem;
+}
+
+@media only screen and (max-width: 767px) {
+
+  a {
+    width: 90%;
   }
-  to {
-    transform: rotate(360deg);
+
+  .card {
+    width: auto;
+  }
+
+  .resImage {
+    width: 70%;
+  }
+
+  .restaurant p {
+    padding: 0 20px;
   }
 }
